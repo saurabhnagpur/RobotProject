@@ -37,6 +37,8 @@ LoginToOrangeHRM
     Close Browser
     Log    Test Completed
     Log    This test was executed by %{username} on %{os} from ${CURDIR}
+MyGITTestCase
+    LOG    My GIT Testcase Log
     
 *** Variables ***
 ${URL}    https://opensource-demo.orangehrmlive.com
